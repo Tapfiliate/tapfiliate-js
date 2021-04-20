@@ -1,0 +1,19 @@
+{
+  "name": "@tapfiliate/tapfiliate-js",
+  "version": "1.0.2",
+  "description": "Simple wrapper for the Tapfiliate javascript integration library to help with implementation in modern frontend applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tapfiliate/tapfiliate-js.git"
+  },
+  "homepage": "https://github.com/Tapfiliate/tapfiliate-js#readme",
+  "bugs": {
+    "url": "https://github.com/Tapfiliate/tapfiliate-js/issues"
+  }
+}
